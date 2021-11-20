@@ -1,7 +1,9 @@
-### Hi there 👋
-
+<h2 align="center"> Hi there 👋 </h2>
+<hr>
+<p>
 I'm Kamal Singh, currently pursuing post graduate from Central University of Rajasthan in Computer Science (Big Data Analytics).
-
+</p>
+<hr>
 <!--
 **Kamal2511/Kamal2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
