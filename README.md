@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Kamal2511&repo=olympics-analysis&show_owner=true)](https://github.com/Kamal2511/olympics-analysis)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Kamal2511&repo=Movie-Recommender-System&show_owner=true)](https://github.com/Kamal2511/Movie-Recommender-System)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Kamal2511&repo=Flight-Fare-Prediction&show_owner=true)](https://github.com/Kamal2511/Flight-Fare-Prediction)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Kamal2511&repo=Spam-classifier&show_owner=true)](https://github.com/Kamal2511/Spam-classifier)
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamal2511)
