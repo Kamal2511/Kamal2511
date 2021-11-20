@@ -16,5 +16,5 @@ I have worked on a variety of data science projects, which include Data Analysis
 <hr>
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamal2511)
+<img align ="center" src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=Kamal2511'>
   
