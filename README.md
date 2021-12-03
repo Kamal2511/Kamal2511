@@ -4,7 +4,7 @@
 I'm Kamal Singh, currently pursuing post graduation from Central University of Rajasthan in Computer Science (Big Data Analytics).
 <br><br>
 Having started coding at an early age and also having completed my Bachelor’s, I can say my interest in this field has only grown with time. I gravitate more towards Data Science and Data Analysis.<br><br>
-I have worked on a variety of data science projects, which include Data Analysis, Price Prediction, Visualization, and implementing machine learning and Deep learning pipelines. 
+I have worked on a variety of data science projects, which include Data Analysis, Price Prediction, Visualization, and implementing machine learning pipelines. 
 <br><br>
 
 
