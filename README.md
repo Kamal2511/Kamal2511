@@ -21,8 +21,5 @@ I have worked on a variety of data science projects, which include Data Analysis
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Kamal2511&repo=Flight-Fare-Prediction&show_owner=true)](https://github.com/Kamal2511/Flight-Fare-Prediction)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Kamal2511&repo=Spam-classifier&show_owner=true)](https://github.com/Kamal2511/Spam-classifier)
 
-<hr>
 
-
-<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamal2511" style="max-width: 100%;">
   
